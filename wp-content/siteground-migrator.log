@@ -1,0 +1,304 @@
+[04-Dec-2018 14:31:06 UTC] INFO: Transfer started. Creating archives of files... 
+[04-Dec-2018 14:31:06 UTC] INFO: Updating transfer id. 
+[04-Dec-2018 14:31:06 UTC] INFO: Updating transfer psk. 
+[04-Dec-2018 14:31:25 UTC] INFO: Files archived, compressing the database.. 
+[04-Dec-2018 14:31:25 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Process failed : export_database. Retrying... 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Process failed : export_database. Retrying... 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Process failed : export_database. Retrying... 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:31:26 UTC] INFO: Transfer Failed Due To Database Error! 
+[04-Dec-2018 14:31:50 UTC] INFO: Transfer started. Creating archives of files... 
+[04-Dec-2018 14:31:50 UTC] INFO: Updating transfer id. 
+[04-Dec-2018 14:31:50 UTC] INFO: Updating transfer psk. 
+[04-Dec-2018 14:32:11 UTC] INFO: Files archived, compressing the database.. 
+[04-Dec-2018 14:32:11 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:11 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:11 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:11 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:11 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:11 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:11 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:11 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:11 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:11 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:11 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:12 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:12 UTC] ERROR: Process failed : export_database. Retrying... 
+[04-Dec-2018 14:32:12 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:12 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:12 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:12 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:12 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:12 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:12 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:12 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:12 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:12 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:12 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Process failed : export_database. Retrying... 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Process failed : export_database. Retrying... 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] ERROR: Couldn't dump table: Couldn't export database: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2005: Unknown MySQL server host 'localhost:3306' (0) when trying to connect
+ 
+[04-Dec-2018 14:32:13 UTC] INFO: Transfer Failed Due To Database Error! 
